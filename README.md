@@ -1,2 +1,3 @@
 # Screenshot-pyautogui
-A simple screenshot script - python .
+## Install [PyAutoGUI](https://pypi.org/project/PyAutoGUI/)
+## Then run the code. 
